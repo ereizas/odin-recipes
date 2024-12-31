@@ -6,6 +6,14 @@
     text-align: center;
 }
 
+.recipe-li {
+    display: inline;
+}
+
+.recipe-li a {
+    border: 1px orange solid;
+}
+
 #home-page {
     background-color: aqua;
 }
